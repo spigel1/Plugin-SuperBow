@@ -1,0 +1,11 @@
+name: SuperBow
+version: '${project.version}'
+main: me.eranspigel.superbow.SuperBow
+api-version: '1.20'
+commands:
+  givebow:
+    description: Give yourself or someone else a teleport bow
+permissions:
+  superbow.givebow:
+    description: Allows someone to get Super Bow
+    default: op

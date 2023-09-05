@@ -1,0 +1,5 @@
+give-on-join: true
+bow-name: '&f[&eSuper&aBow&f]'
+bow-description: '&6Shoot your shot and run anywhere .'
+teleported-message: '&aSuper!'
+number-of-lightning: 10
