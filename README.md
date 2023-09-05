@@ -1,6 +1,6 @@
 # Plugin-SuperBow
 
-This plugin adds a new command give bow command brings you superbow
+This plugin adds a new command "givebow" command brings you superbow
 I wonder what she is doing...
 
 You can change some parameters by changing things in the config file 
